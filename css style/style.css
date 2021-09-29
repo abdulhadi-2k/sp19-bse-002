@@ -1,0 +1,94 @@
+ul {
+    background-color: rgb(100, 143, 235);
+    padding: 0px;
+    overflow: hidden; 
+    border: 2px solid black;
+
+}
+li {
+    display: inline;
+    background-color: rgb(100, 143, 235);
+    margin-left: 5px;
+    
+}
+a{
+    color: black;
+}
+a:hover {
+    color:rgb(100, 100, 100);
+    text-decoration: none;
+}
+.at{
+    text-align: center;
+}
+#sticky{
+    position: sticky; 
+    top: 0;
+}
+
+.SiteName {
+    background-color: rgb(43, 15, 15);
+    font-size: 2em;
+    color: rgb(100, 100, 100);
+    border: 2px solid black;
+    text-align: center;
+}
+
+.headings{
+    text-decoration: underline;
+}
+
+
+.PicSize{
+    width: 100px;
+}
+
+.left{
+    border: 2px solid black;
+    width: 20%; 
+    float: left;
+    margin: 20px;
+    
+}
+
+.right{
+    border: 2px solid black;
+    width: 20%; 
+    float: right;
+    margin: 20px;
+    
+}
+
+.middle{
+    border: 2px solid black;
+    width: 20%; 
+    float: right;
+    margin: 20px;
+}
+#outer {
+    width: 500px;
+    height: 500px;
+    text-align: right;
+    vertical-align: bottom;
+    }
+.TBLsetup {
+    border: 1px solid black;
+    width: 100%;
+    color: rgb(100, 100, 100);
+    
+
+}
+.TBLclr{
+    background-color:rgb(43, 15, 15)
+}
+
+.subs{
+    border: 2px solid black;
+}
+.footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(111, 150, 233);    
+    text-align: center;
+  }
