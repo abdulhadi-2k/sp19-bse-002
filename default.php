@@ -1,1 +1,1 @@
-<?php include_once('./site.html') ?>
+<?php include_once('./index.html') ?>
